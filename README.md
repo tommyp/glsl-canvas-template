@@ -17,3 +17,5 @@ This uses a number of things to make creating shaders easier:
 - Vite for running and hot reloading
 
 `index.html` renders a `<canvas>` which renders a shader fragment from the `data-fragment-url` attribute.
+
+_PRs and feedback welcome. If you use it, say hello at [hi@tommyp.org](mailto:hi@tommyp.org) and [@tommypalmr](https://twitter.com/tommypalmr)._
