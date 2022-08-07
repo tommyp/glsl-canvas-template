@@ -15,3 +15,5 @@ This uses a number of things to make creating shaders easier:
 
 - GLSL Canvas to load in shaders
 - Vite for running and hot reloading
+
+`index.html` renders a `<canvas>` which renders a shader fragment from the `data-fragment-url` attribute.
